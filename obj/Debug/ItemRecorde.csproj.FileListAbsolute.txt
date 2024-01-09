@@ -1,0 +1,7 @@
+C:\Users\AAMIR COMPUTER\source\repos\ItemRecorde\bin\Debug\ItemRecorde.exe.config
+C:\Users\AAMIR COMPUTER\source\repos\ItemRecorde\bin\Debug\ItemRecorde.exe
+C:\Users\AAMIR COMPUTER\source\repos\ItemRecorde\bin\Debug\ItemRecorde.pdb
+C:\Users\AAMIR COMPUTER\source\repos\ItemRecorde\obj\Debug\ItemRecorde.csproj.AssemblyReference.cache
+C:\Users\AAMIR COMPUTER\source\repos\ItemRecorde\obj\Debug\ItemRecorde.csproj.CoreCompileInputs.cache
+C:\Users\AAMIR COMPUTER\source\repos\ItemRecorde\obj\Debug\ItemRecorde.exe
+C:\Users\AAMIR COMPUTER\source\repos\ItemRecorde\obj\Debug\ItemRecorde.pdb
