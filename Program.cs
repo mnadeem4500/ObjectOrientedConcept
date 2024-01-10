@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web;
 
 namespace ItemRecorde
 {
@@ -34,11 +35,16 @@ namespace ItemRecorde
             return itemqty* itemprice;
            
         }
+        public void owner()
+        {
+            Console.WriteLine("CFG Group & Comapanies ");
+        }
 
         static void Main(string[] args)
         {
             Program p = new Program(1001, "Steel", "Mugal", 200, 100);
             p.show();
+            p.owner();
             double Avg=p.Amount();
             Console.WriteLine("Your Price is "+ Avg);
            
